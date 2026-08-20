@@ -1,0 +1,196 @@
+# Política de Privacidade — CRSP
+
+Última atualização: 20 de agosto de 2026
+
+Esta Política de Privacidade explica como o aplicativo CRSP — Centro de Resolução SP (“CRSP”, “aplicativo” ou “nós”), mantido por **CRSP**, acessa, utiliza, armazena e compartilha informações durante o uso do aplicativo.
+
+Ao utilizar o CRSP, o usuário declara estar ciente das práticas descritas nesta Política.
+
+## 1. Sobre o CRSP
+
+O CRSP é uma ferramenta educacional destinada a facilitar o acesso de estudantes a informações, atividades, plataformas e serviços educacionais.
+
+O CRSP é uma aplicação independente. Salvo indicação expressa em contrário, não representa oficialmente a Secretaria da Educação do Estado de São Paulo, o Governo do Estado de São Paulo ou as plataformas educacionais acessadas pelo aplicativo.
+
+## 2. Informações tratadas
+
+Dependendo das funcionalidades utilizadas, o CRSP poderá tratar as seguintes categorias de informações:
+
+### 2.1. Dados de identificação e conta
+
+- Registro do Aluno (RA), dígito e estado;
+- nome e nome de perfil;
+- identificador interno do usuário;
+- endereço de e-mail, quando fornecido pelo serviço educacional;
+- turma, escola ou informações relacionadas à conta escolar;
+- tokens de autenticação e sessão.
+
+A senha informada é utilizada para realizar a autenticação no serviço educacional correspondente. O aplicativo não tem como finalidade criar uma nova conta escolar e não armazena intencionalmente a senha de maneira persistente após a autenticação.
+
+Tokens de autenticação e informações básicas do perfil podem ser armazenados localmente no dispositivo para manter a sessão ativa.
+
+### 2.2. Dados acadêmicos
+
+Quando autorizado pelo usuário e disponibilizado pelos serviços educacionais integrados, o aplicativo poderá acessar:
+
+- atividades escolares e pendências;
+- respostas e progresso em atividades;
+- frequência, faltas e justificativas;
+- notas, boletins e informações de disciplinas;
+- cursos, conteúdos e plataformas vinculadas;
+- dados necessários para exibir ou executar funcionalidades educacionais solicitadas pelo usuário.
+
+Esses dados são utilizados exclusivamente para disponibilizar as funcionalidades educacionais do aplicativo.
+
+### 2.3. Dados técnicos e de utilização
+
+O CRSP e seus provedores tecnológicos poderão processar:
+
+- modelo do dispositivo e versão do sistema operacional;
+- versão do aplicativo;
+- endereço IP;
+- identificadores do aplicativo ou dispositivo;
+- eventos de abertura, login, navegação e utilização de recursos;
+- informações sobre falhas, erros e desempenho;
+- interações com anúncios;
+- token técnico para entrega de notificações.
+
+Essas informações são utilizadas para funcionamento, segurança, prevenção contra fraudes, diagnóstico de falhas, análise de desempenho e melhoria do aplicativo.
+
+### 2.4. Câmera, microfone e arquivos
+
+O aplicativo poderá solicitar acesso à câmera, ao microfone ou aos arquivos somente quando alguma funcionalidade depender desses recursos e após a autorização do usuário.
+
+Arquivos, imagens, áudio ou documentos selecionados permanecem no dispositivo, salvo quando o usuário solicita uma operação que exija envio ou compartilhamento com um serviço externo. O CRSP também pode baixar, abrir ou compartilhar PDFs e outros materiais educacionais mediante ação do usuário.
+
+O usuário pode revogar essas permissões a qualquer momento nas configurações do Android.
+
+## 3. Como utilizamos as informações
+
+As informações poderão ser utilizadas para:
+
+- autenticar o usuário nos serviços educacionais;
+- manter a sessão ativa;
+- apresentar dados acadêmicos e escolares;
+- consultar e executar atividades solicitadas pelo usuário;
+- integrar plataformas educacionais;
+- enviar notificações importantes;
+- liberar recursos após a exibição de anúncios recompensados;
+- exibir banners, anúncios intersticiais e anúncios de abertura;
+- detectar falhas, abusos, fraudes ou problemas técnicos;
+- analisar o funcionamento e melhorar a experiência do aplicativo;
+- cumprir obrigações legais, regulatórias ou de segurança.
+
+Não vendemos dados pessoais dos usuários.
+
+Dados escolares, RA, senha ou conteúdo acadêmico não devem ser utilizados pelo CRSP para personalizar anúncios.
+
+## 4. Publicidade e Google AdMob
+
+O CRSP utiliza o Google AdMob para apresentar anúncios, incluindo banners, anúncios intersticiais, anúncios de abertura e anúncios recompensados.
+
+O Google e seus parceiros poderão processar informações como:
+
+- endereço IP;
+- identificadores de publicidade;
+- informações técnicas do dispositivo;
+- interações com anúncios;
+- informações aproximadas de localização derivadas do IP;
+- dados necessários para limitar frequência, medir desempenho, combater fraude e, quando permitido, personalizar anúncios.
+
+Quando exigido pela legislação, o aplicativo apresenta uma mensagem para que o usuário possa escolher como seus dados serão utilizados na publicidade. O usuário poderá rever suas escolhas pela opção **“Privacidade dos anúncios”**, disponível nas configurações do aplicativo quando exigida.
+
+Mais informações:
+
+- [Como o Google usa informações de apps que utilizam seus serviços](https://policies.google.com/technologies/partner-sites?hl=pt-BR)
+- [Política de Privacidade do Google](https://policies.google.com/privacy?hl=pt-BR)
+- [Controles de anúncios do Google](https://myadcenter.google.com/?hl=pt-BR)
+
+Mesmo anúncios não personalizados podem utilizar endereço IP e identificadores para segurança, limitação de frequência, relatórios agregados e prevenção de fraude.
+
+## 5. Serviços e terceiros
+
+Para funcionar, o CRSP poderá utilizar ou se comunicar com serviços de terceiros, incluindo:
+
+- Google AdMob;
+- Google Firebase Analytics;
+- Firebase Cloud Messaging;
+- serviços educacionais da Secretaria da Educação;
+- serviços técnicos relacionados à plataforma Educação SP;
+- plataformas educacionais abertas pelo usuário, como Alura, Khan Academy, Matific, Leia SP, Open English e outras;
+- serviços de hospedagem, APIs e infraestrutura necessários ao funcionamento do aplicativo.
+
+Esses terceiros poderão tratar informações de acordo com suas próprias políticas de privacidade e seus respectivos termos.
+
+O aplicativo poderá abrir páginas externas ou áreas incorporadas por navegador/WebView. Ao acessar esses serviços, o tratamento realizado por eles será regido pelas políticas próprias de cada plataforma.
+
+## 6. Base legal
+
+Quando aplicável, o tratamento poderá estar fundamentado:
+
+- na execução de funcionalidades solicitadas pelo usuário;
+- no consentimento;
+- no legítimo interesse de manter, proteger e melhorar o aplicativo;
+- no cumprimento de obrigações legais;
+- na prevenção de fraude e proteção da segurança;
+- no exercício regular de direitos.
+
+Quando o tratamento depender de consentimento, o usuário poderá revogá-lo, sem afetar os tratamentos realizados anteriormente de forma válida.
+
+## 7. Crianças e adolescentes
+
+O CRSP é voltado ao contexto educacional e pode ser utilizado por adolescentes. Usuários menores de idade devem utilizar o aplicativo com conhecimento e supervisão de seus pais ou responsáveis legais, conforme aplicável.
+
+Não utilizamos conscientemente dados escolares para criar perfis publicitários personalizados de crianças. Quando houver obrigação legal de tratamento diferenciado por idade, deverão ser aplicadas as proteções e restrições de publicidade correspondentes.
+
+Pais ou responsáveis poderão solicitar esclarecimentos, acesso, correção ou exclusão de dados entrando em contato pelo canal indicado nesta Política.
+
+## 8. Armazenamento e segurança
+
+Adotamos medidas técnicas e organizacionais razoáveis para proteger as informações contra acesso não autorizado, alteração, perda, divulgação ou destruição indevida.
+
+As comunicações com serviços remotos utilizam conexões HTTPS quando disponibilizadas pelos respectivos provedores. Tokens de sessão e preferências poderão ser armazenados na área privada do aplicativo no dispositivo.
+
+Nenhum sistema é totalmente seguro. Portanto, não é possível garantir proteção absoluta contra todos os incidentes.
+
+## 9. Retenção e exclusão
+
+Dados armazenados localmente, como tokens de sessão e preferências, permanecem no dispositivo enquanto forem necessários ao funcionamento do aplicativo ou até que o usuário:
+
+- saia da conta;
+- limpe os dados do aplicativo;
+- desinstale o aplicativo.
+
+Registros técnicos e analíticos mantidos por terceiros seguem os prazos definidos por esses provedores e suas respectivas políticas.
+
+O CRSP não cria nem controla a conta escolar original do usuário. Pedidos relacionados à exclusão da conta ou de dados mantidos pelos serviços educacionais oficiais deverão ser direcionados ao responsável por esses serviços.
+
+Para solicitar a exclusão de dados controlados diretamente pelo responsável pelo CRSP, o usuário poderá entrar em contato pelo e-mail indicado abaixo. A solicitação será analisada e atendida dentro do prazo legal aplicável, salvo quando a manutenção dos dados for necessária por obrigação legal, segurança ou exercício de direitos.
+
+## 10. Direitos do usuário
+
+Nos termos da legislação aplicável, incluindo a Lei Geral de Proteção de Dados — LGPD, o usuário poderá solicitar:
+
+- confirmação da existência de tratamento;
+- acesso aos dados;
+- correção de informações incompletas ou incorretas;
+- exclusão ou anonimização, quando aplicável;
+- informações sobre compartilhamento;
+- revogação do consentimento;
+- oposição a determinados tratamentos;
+- revisão das escolhas de privacidade dos anúncios.
+
+Para exercer esses direitos, utilize o canal de contato informado nesta Política.
+
+## 11. Notificações e permissões
+
+O aplicativo poderá enviar notificações relacionadas a atividades, avisos e funcionamento dos recursos. O usuário pode desativá-las nas configurações do Android.
+
+Permissões de câmera, microfone, notificações e arquivos podem ser alteradas ou revogadas nas configurações do dispositivo. A revogação poderá limitar algumas funcionalidades.
+
+## 12. Alterações desta Política
+
+Esta Política poderá ser atualizada para refletir mudanças no aplicativo, nos serviços utilizados ou na legislação.
+
+Quando houver alterações relevantes, a data de atualização será modificada e, quando necessário, o usuário será informado pelo aplicativo ou por outro meio adequado.
+
